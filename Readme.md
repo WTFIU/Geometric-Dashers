@@ -70,11 +70,11 @@ See [License](https://github.com/WTFIU/Geometric-Dashers/blob/main/License.md) f
 ## Support the Official Game
 If you enjoy this project, please support the official Geometry Dash by buying it:
 
-💻 Steam
+💻 [Steam](https://store.steampowered.com/app/322170/Geometry_Dash/)
 
-📱 Google Play
+📱 [Google Play](https://play.google.com/store/apps/details?id=com.robtopx.geometryjump&hl=en-US)
 
-📱 App Store
+📱 [App Store](https://apps.apple.com/us/app/geometry-dash/id625334537)
 
 Supporting the original helps creators keep making great games!
 
